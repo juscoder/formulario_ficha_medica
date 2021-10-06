@@ -51,7 +51,7 @@
                             <p><b>Observaciones:</b> <?php echo $observaciones; ?></p> 
                         </div>
                         <div class="card-footer text-center">
-                            <h6>Estudinate: Ramos Aduviri Justino</h6>
+                            <h6>Estudinate: Ramos Justino</h6>
                         </div>
                     </div>
                 </form>
