@@ -30,7 +30,7 @@ if(!$connection)
             echo "<b><h4>Hemos conectado al servidor</h45</b>" ;
         }
         //indicamos el nombre de la base datos
-        $datab = "dbcitamedica";
+        $datab = "dbfichamedica";
         //indicamos selecionar ala base datos
         $db = mysqli_select_db($connection,$datab);
 
