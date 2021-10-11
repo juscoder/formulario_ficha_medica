@@ -20,6 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Base de datos: `dbcitamedica`
 --
+CREATE DATABASE IF NOT EXISTS `dbfichamedica` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `dbfichamedica`;
 
 -- --------------------------------------------------------
 
